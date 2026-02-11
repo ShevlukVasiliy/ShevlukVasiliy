@@ -6,7 +6,6 @@
 🌐 [https://shevluk.ru](https://shevluk.ru)
 💬 [https://t.me/jlyou](https://t.me/jlyou)
 ✉️ [mrballon@yandex.ru](mailto:mrballon@yandex.ru)
-🐙 [https://github.com/MrBallonvas](https://github.com/ShevlukVasiliy)
 
 ---
 
