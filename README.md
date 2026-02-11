@@ -1,28 +1,107 @@
-<h1 align="center">Hi, I'm <a href="https://shevluk.ru/" target="_blank">Shevluk Vasiliy</a>
-  
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=400&center=true&width=435&lines=Frontend;JavaScript;TypeScript;React;Serverless;" alt="Typing SVG" /></div>
+### Василий Шевлюк
 
-[![wakatime](https://wakatime.com/badge/user/93d8218d-5ac9-4ac1-bf92-3aced5ccec37.svg)](https://wakatime.com/@93d8218d-5ac9-4ac1-bf92-3aced5ccec37)
+**Frontend Developer (React / TypeScript)**
 
-## 👨‍💻 About Me :
-- I mainly do frontend development.
-- In IT 3 years.
-- I also develop backend (Express, Fasitify)
-- 📫How to reach with me:
-  - write me on  [E-Mail](mailto:shevlukvp@shevluk.ru)
-  - telegram [@jlyou](https://t.me/jlyou)
- 
-## ⭐️ My projects:
-On my [web-site](https://shevluk.ru) you can see all my projects
+📍 Оренбург, Россия
+🌐 [https://shevluk.ru](https://shevluk.ru)
+💬 [https://t.me/jlyou](https://t.me/jlyou)
+✉️ [mrballon@yandex.ru](mailto:mrballon@yandex.ru)
+🐙 [https://github.com/MrBallonvas](https://github.com/ShevlukVasiliy)
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/sass-red.svg?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%231572B6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
-![React](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=React&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-blue?style=for-the-badge&logo=Webpack&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NeoVim](https://img.shields.io/badge/neovim-darkgreen?style=for-the-badge&logo=neovim&logoColor=white)
-![Fastify](https://img.shields.io/badge/fastify-black?style=for-the-badge&logo=fastify&logoColor=white)
+---
+
+## О себе
+
+Frontend-разработчик с опытом разработки интерфейсов на **React и TypeScript**.
+Также работаю с backend-частью (Node.js, Fastify, Express, PostgreSQL).
+Интересуюсь архитектурой приложений, производительностью и developer experience.
+Открыт к первым коммерческим проектам.
+
+---
+
+## Навыки
+
+### Frontend
+
+* TypeScript, JavaScript
+* React
+* HTML, CSS
+* Sass / SCSS
+* Styled Components
+* Gravity UI / Antd
+
+### Backend
+
+* Node.js
+* Fastify
+* Express
+* PostgreSQL
+
+### Инструменты
+
+* Git
+* Docker
+
+---
+
+## Проекты
+
+### Личный сайт — [https://shevluk.ru](https://shevluk.ru)
+
+**Роль:** Full-stack разработчик
+**Стек:** HTML, CSS, JavaScript
+
+* Разработал портфолио и блог
+* Реализовал адаптивную верстку
+* Настроил базовую SEO-оптимизацию
+
+---
+
+### TeleFolders
+
+**Роль:** Frontend-разработчик
+**Стек:** React, TypeScript, Gravity UI
+
+* Разработка интерфейса управления файлами через Telegram
+* Реализация пользовательского взаимодействия с чатами
+* Работа в составе команды Noradrenalin
+
+GitHub: ([ссылка](https://github.com/Noradrenalin-team/TeleFolders))
+
+---
+
+### Книга памяти Оренбургской области
+
+**Роль:** Frontend-разработчик
+**Стек:** React, TypeScript, Gravity UI
+
+* Разработка интерфейса поиска людей
+* Создание UI для работы с историческими данными
+* Оптимизация пользовательского сценария поиска
+
+---
+
+## Достижения
+
+* 🥇 Победитель хакатона Минцифры Оренбургской области — 2022
+* 🥈 Серебро первенства России по спортивному программированию — 2023, 2024
+* 🥇 Победа в OrenIT-2025 (областной хакатон)
+* 🥈 Серебро Кубка России по спортивному программированию — 2025
+* 🧠 Участник CTF-соревнования — 2024
+* 🏆 Топ-6 хакатона VK и MAX
+
+---
+
+## Образование
+
+**Бакалавриат** — (Оренбургский государственный университет)
+2025 — 2029 (в процессе)
+
+Среднее общее образование — 2025
+
+---
+
+## Опыт работы
+
+Пока без коммерческого опыта.
+Открыт к стажировкам и первым коммерческим проектам.
